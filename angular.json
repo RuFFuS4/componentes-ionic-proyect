@@ -36,6 +36,9 @@
                 "input": "src/theme/variables.scss"
               },
               {
+                "input": "node_modules/animate.css/animate.min.css"
+              },
+              {
                 "input": "src/global.scss"
               }
             ],
